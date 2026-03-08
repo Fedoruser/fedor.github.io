@@ -104,3 +104,4 @@ A Python-based command-line tool designed to accelerate the Django project initi
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Programming%20isn%27t%20about%20what%20you%20know%3B%20it%27s%20about%20what%20you%20can%20figure%20out." alt="Programming Quote" />
 </p>
+TG
