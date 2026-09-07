@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" align="right" width="150" style="border-radius: 50%; margin: 0 0 20px 20px;" alt="Profile Picture" />
+
 
 I am a passionate **Full Stack Developer** focused on building efficient, scalable web applications. I specialize in modern Javascript ecosystems and cloud technologies. I enjoy solving complex problems and designing elegant software architectures.
 
@@ -66,14 +66,7 @@ Currently, I am diving deeper into advanced architectural patterns like **Featur
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&rank_icon=github&count_private=true" alt="Fedor's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&hide=html" alt="Top Languages" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=nord" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -87,16 +80,11 @@ A comprehensive backend solution for managing library operations, built with Nes
 A Python-based command-line tool designed to accelerate the Django project initialization process.
 * **Key Skills:** Python, CLI tools, Automating workflows.
 
----
 
-## 🐍 My Contribution Graph
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/fmikhailovich/fmikhailovich/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
 
 ---
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Programming%20isn%27t%20about%20what%20you%20know%3B%20it%27s%20about%20what%20you%20can%20figure%20out." alt="Programming Quote" />
 </p>
-TG
+
